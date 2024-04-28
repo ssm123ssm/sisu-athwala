@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is the repo for the Sisu Athwala by the Faculty of Medicine, University of Peradeniya.
 
-## Getting Started
+The site is at http://sisu-athwala-ai.pdn.ac.lk
 
-First, run the development server:
+## About
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Our website serves as a platform to highlight the innovative work being done in the field of medicine, education, and research. We aim to provide transparent information about our projects and engage with our community.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Projects
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Continuous Exam Performance Monitoring
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Our continuous exam performance monitoring system helps identify students who may be at risk of academic failure early on, allowing for timely intervention and support.
 
-## Learn More
+### Automatic Essay Scoring System (AES)
 
-To learn more about Next.js, take a look at the following resources:
+The AES system ensures fair and transparent grading of essays while providing valuable feedback to students, promoting learning and improvement.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Retrieval Augmented Generation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Our retrieval augmented generation system utilizes FDA data to provide automatic drug information retrieval, aiding medical professionals and students in accessing accurate information.
 
-## Deploy on Vercel
+### AI Education and Research
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We are committed to advancing education and research in medicine through the application of artificial intelligence and machine learning techniques.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Get Involved
+
+Interested in contributing to our projects or learning more about our work? Feel free to reach out to us or explore the codebase of this repository.

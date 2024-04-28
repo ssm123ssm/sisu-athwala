@@ -5,18 +5,18 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24 bg-gradient-to-tr from-blue-100 to-white">
       <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm lg:flex">
         <p className="fixed left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border  lg:p-4 lg:dark:bg-zinc-800/30">
-          Neurasense&nbsp;
+          &nbsp;
           <code className="font-mono font-bold">v1.0</code>
         </p>
         <div className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
-          By NS Dev Team &copy; 2024
+          Faculty of Medicine &copy; 2024
         </div>
       </div>
 
       <div className="">
         <Image
           className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] dark:invert"
-          src="/logo.svg"
+          src="/logo.png"
           alt="Logo"
           width={180}
           height={37}
@@ -31,14 +31,13 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Data-Driven Insights{" "}
+            Continous Exam Performance Monitoring{" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Empowering businesses with data-driven AI solutions for actionable
-            insights.
+            For early identification of students at risk of academic failure.
           </p>
         </a>
 
@@ -48,14 +47,14 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2 className={`mb-3 text-2xl font-semibold`}>
-            Natural Language Processing{" "}
+            Automatic Essay Scoring System (AES){" "}
             <span className="inline-block transition-transform group-hover:translate-x-1 motion-reduce:transform-none">
               -&gt;
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Leveraging cutting-edge NLP technology to automate language-based
-            tasks.
+            For transparent grading of essays and providing feedback to
+            students.
           </p>
         </a>
 
@@ -71,7 +70,8 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50`}>
-            Unveiling valuable insights buried in massive textual datasets.
+            Automatic drug information retrieval based on FDA data for medical
+            professionals and students.
           </p>
         </a>
 
@@ -87,8 +87,7 @@ export default function Home() {
             </span>
           </h2>
           <p className={`m-0 max-w-[30ch] text-sm opacity-50 text-balance`}>
-            Advancing AI through education, workshops, and medical research
-            initiatives.
+            Advancing education and research through AI and machine learning
           </p>
         </a>
       </div>
